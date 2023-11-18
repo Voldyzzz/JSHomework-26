@@ -1,0 +1,15 @@
+li {
+  color: black;
+}
+
+.first {
+  transition-delay: 2s;
+  transition-property: color;
+  color: red;
+}
+
+.last {
+  transition-delay: 2s;
+  transition-property: color;
+  color: green;
+}
